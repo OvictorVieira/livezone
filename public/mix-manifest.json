@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/vendor.css": "/css/vendor.css",
+    "/css/main-template.css": "/css/main-template.css",
+    "/css/device-mockups.css": "/css/device-mockups.css",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/main.js": "/js/main.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/mask.js": "/js/mask.js"
+}
