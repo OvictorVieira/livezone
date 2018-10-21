@@ -152,7 +152,7 @@ section h2{
 
 .divisor {
     margin: 0.5em;
-    background: rgba(128,111,102,.9);
+    background: #fff2bc;
     width: 1px;
     height: 1.5em;
 }
@@ -170,7 +170,7 @@ header.masthead, div.masthead{
 .background-image-fade {
     background-color: rgba(56,54,54, 0.5);
     width: 100%;
-    height: 100vh;
+    height: 100%;
     position: absolute;
 }
 

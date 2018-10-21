@@ -15,8 +15,6 @@
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/vendor.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/template.css') }}" rel="stylesheet">
     <link href="{{ asset('css/device-mockups.css') }}" rel="stylesheet">
     <link href="{{ asset('css/main-template.css') }}" rel="stylesheet">
 
@@ -50,6 +48,7 @@
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="#informations">Mais Informações</a>
                         </li>
+                        <li class="divisor"></li>
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="{{ route('register') }}">Inscrever-se</a>
                         </li>

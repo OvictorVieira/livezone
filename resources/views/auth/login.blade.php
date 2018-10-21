@@ -2,8 +2,9 @@
 
 @section('content')
 
-    <div class="limiter masthead h-auto">
-        <div class="container-login100">
+    <div class="limiter masthead h-auto d-flex justify-content-end">
+        <div class="background-image-fade"></div>
+        <div class="container-login100 w-50">
             <div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
                 <form action="{{ route('login') }}" method="post" class="login100-form validate-form flex-sb flex-w">
 					<span class="login100-form-title p-b-32">
