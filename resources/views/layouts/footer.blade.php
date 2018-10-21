@@ -83,6 +83,6 @@
     </div>
 
     <div class="container footer-bottom">
-        <span class="copyright-footer">© Copyright Nome da Empresa <?php echo date('Y') ?>. All rights reserved.</span>
+        <span class="copyright-footer">© Copyright Livezone <?php echo date('Y') ?>. All rights reserved.</span>
     </div>
 </footer>
